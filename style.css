@@ -13,10 +13,15 @@ body{
     width: 100%;
     height: 100%;
 }
-  section{
+
+section{
     width: 100%;
     height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
 .section-1{
 background-color: salmon;
 }
